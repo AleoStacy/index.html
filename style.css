@@ -1,0 +1,32 @@
+/*my code*/
+h1 {
+    color: aqua;
+}
+
+p{
+    color: wheat;
+    font-size: large;
+}
+.title {
+    color: brown;
+    
+}
+.header3 {
+    font-family:Arial, Helvetica, sans-serif
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: right;
+    text-indent: 30px
+    text-transformation: lowercase;
+    letter-spacing: 10px
+    
+/*This is how we style text*/
+}
+.secondp {
+    background-color: white;
+    color: brown;
+    line-height: 40px;
+    font-size: 30px
+
+}
